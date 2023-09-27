@@ -10,8 +10,8 @@ Soy un desarrollador web full-stack de 30 años nacido en Bogotá, Colombia.
 Siempre estoy con la mejor actitud para aprender y crecer profesionalmente. Me gusta aplicar el 100% en todos mis proyectos y dejar una gran marca en cada trabajo que hago</div>  
   
 
-- 🔭 actualmente estoy trabajando en:  [Pidgin] (https://pidgin.com.co/)
-                                        [Awaq](https://www.somosawaq.org/)  
+- 🔭 actualmente estoy trabajando en:  [Awaq](https://www.pidgin.com.co/)
+-                                       [Awaq](https://www.somosawaq.org/)  
   
 
 - 🌱Estoy aprendiendo Java y Python
