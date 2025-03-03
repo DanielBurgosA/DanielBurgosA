@@ -5,18 +5,18 @@
 
 ### <div align="center">Soy Daniel Burgos
 
-Soy un desarrollador web full-stack de 30 años nacido en Bogotá, Colombia.
+Soy un desarrollador web full-stack de 31 años nacido en Bogotá, Colombia.
 
 Siempre estoy con la mejor actitud para aprender y crecer profesionalmente. Me gusta aplicar el 100% en todos mis proyectos y dejar una gran marca en cada trabajo que hago</div>  
   
 
-- 🔭 actualmente estoy trabajando en:  [Pidgin](https://www.pidgin.com.co/)   |  [Awaq](https://www.somosawaq.org/)  
+- 🔭 Actualmente acabo de temrinar un gran proyecto para PADF (  
   
 
-- 🌱Estoy aprendiendo Java y Python
+- 🌱Me especializo en JavaScript y Python
   
 
-- ❓ Puedes preguntarme cualquier cosa sobre React y redux  
+- ❓ Puedes preguntarme cualquier cosa sobre React, Redux, Node.js, FastAPI y arquitecturas de software
   
 
 - ⚡ Hobbies: Me gusta el piano y el Muay Thai  
