@@ -4,7 +4,7 @@
 
 ### <div align="center">Soy Daniel Burgos  
 
-Soy un desarrollador web full-stack de 31 años nacido en Bogotá, Colombia.  
+Soy un desarrollador web full-stack de 31 años nacido en Bogotá, Colombia. Cuento conuna Maestria en Desarrollo Full Stack y sigo estudiando para ser cada día mejor 
 
 Siempre estoy con la mejor actitud para aprender y crecer profesionalmente. Me gusta aplicar el 100% en todos mis proyectos y dejar una gran marca en cada trabajo que hago.  
 </div>  
@@ -68,12 +68,12 @@ Siempre estoy con la mejor actitud para aprender y crecer profesionalmente. Me g
 
 <br/>  
 
-## 📊 GitHub Stats  
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=DanielBurgosA&show_icons=true&count_private=true&hide_border=true" align="center" />
-</div>  
+**## 📊 GitHub Stats ** 
+**<div align="center">**
+**<img src="https://github-readme-stats.vercel.app/api?username=DanielBurgosA&show_icons=true&count_private=true&hide_border=true" align="center" />**
+**</div>  **
 
-<!-- 
+**<!-- 
 **Ranking desactivado, puedes activarlo quitando los comentarios**  
 
 <img src="https://github-readme-stats.vercel.app/api?username=DanielBurgosA&show_icons=true&count_private=true&hide_border=true&rank_icon=github" align="center" />  
