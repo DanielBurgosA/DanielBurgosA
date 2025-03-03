@@ -68,31 +68,4 @@ Siempre estoy con la mejor actitud para aprender y crecer profesionalmente. Me g
 
 <br/>  
 
-**## 📊 GitHub Stats ** 
-**<div align="center">**
-**<img src="https://github-readme-stats.vercel.app/api?username=DanielBurgosA&show_icons=true&count_private=true&hide_border=true" align="center" />**
-**</div>  **
-
-**<!-- 
-**Ranking desactivado, puedes activarlo quitando los comentarios**  
-
-<img src="https://github-readme-stats.vercel.app/api?username=DanielBurgosA&show_icons=true&count_private=true&hide_border=true&rank_icon=github" align="center" />  
--->
-
-<br/>  
-
-## 🎶 Escuchando en Spotify  
-<div align="center">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31wgqgtex5d6g7xgk5lzdh3x2kea&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=1a00ff" />
-</div>  
-
-<br/>  
-
-## 🔥 Contador de visitas  
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=DanielBurgosA&&style=flat-square" align="center" />
-</div>  
-
 ----
-
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
